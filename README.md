@@ -12,3 +12,6 @@ Important steps for git workflow:
 TOC
 
 example.txt
+
+
+This is an important change to new repo read me file.
