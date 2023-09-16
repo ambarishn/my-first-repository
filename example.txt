@@ -1,1 +1,3 @@
 Spe 16: Made some inserts into this text file. I am going to use fetch and merge commands to sync these updates to my loacl repo.
+
+Sep 16 update 2: Made some local changes. Going to push this to my remote repo.
